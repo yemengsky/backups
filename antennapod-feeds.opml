@@ -1,17 +1,26 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no' ?>
-<opml version="2.0">
-  <head>
-    <title>AntennaPod Subscriptions</title>
-    <dateCreated>01 Dec 16 02:20:50 +0800</dateCreated>
-  </head>
-  <body>
-    <outline text="Anyway.FM × 设计杂谈" title="Anyway.FM × 设计杂谈" type="rss" xmlUrl="http://anyway.fm/rss.xml" htmlUrl="http://Anyway.FM" />
-    <outline text="IndieAce" title="IndieAce" type="rss" xmlUrl="http://nj.lizhi.fm/rss/943837.xml" htmlUrl="http://www.lizhi.fm" />
-    <outline text="IPN 合集" title="IPN 合集" type="rss" xmlUrl="http://ipn.li/feed" htmlUrl="https://ipn.li/" />
-    <outline text="Teahour.fm" title="Teahour.fm" type="rss" xmlUrl="http://teahour.fm/feed.xml" htmlUrl="" />
-    <outline text="UX Coffee 设计咖" title="UX Coffee 设计咖" type="rss" xmlUrl="https://simplecast.com/podcasts/1897/rss" htmlUrl="http://uxcoffee.co" />
-    <outline text="代码时间" title="代码时间" type="rss" xmlUrl="http://www.ximalaya.com/album/4867505.xml" htmlUrl="http://www.ximalaya.com" />
-    <outline text="反派影评" title="反派影评" type="rss" xmlUrl="http://www.ximalaya.com/album/4127591.xml" htmlUrl="http://www.ximalaya.com" />
-    <outline text="字谈字畅" title="字谈字畅" type="rss" xmlUrl="http://www.typeisbeautiful.com/feed/typechat/" htmlUrl="http://www.typeisbeautiful.com/typechat/" />
-  </body>
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?> 
+<opml version="1.0"> 
+  <head> 
+    <title>Pocket Casts Feeds</title> 
+  </head> 
+  <body> 
+    <outline text="feeds"> 
+      <outline type="rss" text="疯投圈" xmlUrl="http://ipn.li/crazycapital/feed" /> 
+      <outline type="rss" text="内核恐慌" xmlUrl="http://ipn.li/kernelpanic/feed" /> 
+      <outline type="rss" text="时尚怪物" xmlUrl="http://ipn.li/fashionmonster/feed" /> 
+      <outline type="rss" text="IndieAce" xmlUrl="http://nj.lizhi.fm/rss/943837.xml" /> 
+      <outline type="rss" text="UX Coffee 设计咖" xmlUrl="https://simplecast.com/podcasts/1897/rss" /> 
+      <outline type="rss" text="Fragmented" xmlUrl="https://simplecast.com/podcasts/1684/rss" /> 
+      <outline type="rss" text="代码时间" xmlUrl="http://www.ximalaya.com/album/4867505.xml" /> 
+      <outline type="rss" text="流行通信" xmlUrl="http://ipn.li/popdispatch/feed" /> 
+      <outline type="rss" text="Anyway.FM × 设计杂谈" xmlUrl="http://anyway.fm/rss.xml" /> 
+      <outline type="rss" text="字谈字畅" xmlUrl="http://www.typeisbeautiful.com/feed/typechat/" /> 
+      <outline type="rss" text="反派影评" xmlUrl="http://www.ximalaya.com/album/4127591.xml" /> 
+      <outline type="rss" text="太医来了" xmlUrl="http://ipn.li/taiyilaile/feed" /> 
+      <outline type="rss" text="创客调频" xmlUrl="http://startclub.fm/feed.xml" /> 
+      <outline type="rss" text="Startups For the Rest of Us" xmlUrl="http://www.startupsfortherestofus.com/feed" /> 
+      <outline type="rss" text="Teahour.fm" xmlUrl="http://teahour.fm/feed.xml" /> 
+      <outline type="rss" text="Android Intelligence" xmlUrl="http://podcastfeed.androidintel.net" /> 
+    </outline> 
+  </body> 
 </opml>
